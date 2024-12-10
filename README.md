@@ -80,7 +80,12 @@ This will open a local Streamlit app where you can interact with the chatbot.
 
 ### Chatbot Interface:
 
-![Gym Chatbot Interface](path/to/screenshot.png)
+#### Result 1
+![Gym Chatbot Interface - Result 1](result_1.png)
+
+#### Result 2
+![Gym Chatbot Interface - Result 2](result_2.png)
+
 
 ## Future Enhancements
 

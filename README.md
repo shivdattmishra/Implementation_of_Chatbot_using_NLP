@@ -21,7 +21,7 @@ To run the Gym Chatbot locally, follow the instructions below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gym-chatbot.git
+git clone https://github.com/shivdattmishra/Implementation_of_Chatbot_using_NLP.git
 cd gym-chatbot
 ```
 
